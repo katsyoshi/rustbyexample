@@ -9,7 +9,5 @@ fn main() {
         println!("inner long: {}", long_lived_variable);
     }
 
-    println!("outer short: {}", short_lived_variable);
-
     println!("outer long: {}", long_lived_variable);
 }
