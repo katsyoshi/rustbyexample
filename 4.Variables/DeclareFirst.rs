@@ -11,8 +11,6 @@ fn main() {
 
     let another_variable;
 
-    println!("another variable: {}", another_variable);
-
     another_variable = 1i;
 
     println!("another variable: {}", another_variable);
