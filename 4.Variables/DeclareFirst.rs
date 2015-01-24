@@ -2,7 +2,7 @@ fn main() {
     let a_variable;
 
     {
-        let x = 2i;
+        let x = 2is;
 
         a_variable = x * x;
     }
@@ -11,7 +11,7 @@ fn main() {
 
     let another_variable;
 
-    another_variable = 1i;
+    another_variable = 1is;
 
     println!("another variable: {}", another_variable);
 }
