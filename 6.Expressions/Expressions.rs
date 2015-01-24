@@ -9,7 +9,7 @@ fn main() {
     };
 
     let z = {
-        2 * x;
+        2 * x
     };
 
     println!("x is {:?}", x);
