@@ -6,6 +6,6 @@ fn main() {
              predicate = "over the lazy dog",
              subject = "the quick brown fox",
              verb = "jumps");
-    println!("{} of {:b} people know binary, the other half don't", 1i, 2i);
+    println!("{} of {:b} people know binary, the other half don't", 1is, 2is);
     println!("My name is {0}, {1} {0}", "Bond", "James");
 }
