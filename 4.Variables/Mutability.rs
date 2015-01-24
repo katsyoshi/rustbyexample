@@ -7,5 +7,4 @@ fn main() {
     mutable_variable += 1;
 
     println!("After mutation: {}", mutable_variable);
-    _immutable_variable += 1;
 }
