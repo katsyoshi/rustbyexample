@@ -12,6 +12,6 @@ fn main() {
     println!("size of `i` in bytes: {}", std::mem::size_of_val(&i));
     println!("size of `f` in bytes: {}", std::mem::size_of_val(&f));
 
-    let _constraint_i = x + i;
-    let _constraint_f = z + f;
+    // let _constraint_i = x + i;
+    // let _constraint_f = z + f;
 }
