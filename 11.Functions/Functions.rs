@@ -22,7 +22,7 @@ fn fizzbuzz(n: u32) -> () {
 }
 
 fn fizzbuzz_to(n: u32) {
-    for n  in range(1, n + 1) {
+    for n  in (1 .. n + 1) {
         fizzbuzz(n);
     }
 }
