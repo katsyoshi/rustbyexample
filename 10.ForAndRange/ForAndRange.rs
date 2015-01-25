@@ -1,5 +1,5 @@
 fn main() {
-    for n in range(1u32, 101) {
+    for n in (1u32 .. 101) {
         if n % 15 == 0 {
             println!("fizzbuzz");
         } else if n % 3 == 0 {
