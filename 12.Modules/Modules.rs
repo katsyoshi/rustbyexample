@@ -19,7 +19,5 @@ mod my {
 fn main() {
     function();
 
-    std::io::stdio:println("Hello, world!!");
-
-    my::function();
+    std::io::stdio::println("Hello, world!!");
 }
